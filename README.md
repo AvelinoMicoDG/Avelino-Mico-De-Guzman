@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Avelino Mico C. De Guzman III! 👋</h1>
 
 <p align="center">
-  <img src="ProfilePicture.JPG" 
+  <img src="ProfilePicture.jpg" 
        alt="Profile Picture" 
        width="180"
        style="border-radius: 50 %;">
