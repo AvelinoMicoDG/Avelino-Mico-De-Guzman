@@ -3,7 +3,8 @@
 <p align="center">
   <img src="DSCF1379.JPG" 
        alt="Profile Picture" 
-       width="180">
+       width="180"
+       style="border-radius: 50%;">
 </p>
 
 <p align="center">
