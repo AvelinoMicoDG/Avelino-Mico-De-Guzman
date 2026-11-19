@@ -39,7 +39,7 @@ New Era University
 ### 📫 Connect With Me
 
 - **LinkedIn:** [My LinkedIn Profile](LINKEDIN_PROFILE_LINK)
-- **Email:** [juandelacruz@gmail.com](mailto:juandelacruz@gmail.com)
+- **Email:** [micodeguzman012327@gmail.com](mailto:micodeguzman012327@gmail.com)
 
 ---
 
