@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Avelino Mico C. De Guzman III! 👋</h1>
 
 <p align="center">
-  <img src="DSCF1379.JPG"
-       alt="Profile Picture"
+  <img src="DSCF1379.JPG" 
+       alt="Profile Picture" 
        width="180"
-       height="180"
-       style="border-radius: 50%; object-fit: cover;">
+       style="border-radius: 50 %;">
 </p>
+
 
 <p align="center">
   BSIT Student | Solution Specialist | Aspiring Game Developer
