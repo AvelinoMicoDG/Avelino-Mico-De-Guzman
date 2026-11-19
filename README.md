@@ -14,7 +14,7 @@
 
 ### 💻 About Me
 
-I am **Avelino Mico C. De Guzman III**, a Bachelor of Science in Information Technology student with an interest in programming, database management, and software development. Alongside my studies, I work as a **Solution Specialist**, where I gain valuable professional experience, develop problem-solving skills, and handle real-world challenges. I enjoy exploring new technologies, finding practical solutions, and continuously improving my technical and professional skills. My long-term goal is to become a successful **Game Developer** and turn my passion for technology into meaningful projects.
+Hi! I'm **Avelino Mico C. De Guzman III**, a BSIT student who enjoys exploring technology, learning programming, and discovering how software works. Aside from being a student, I also work as a **Solution Specialist**, where I gain experience and learn how to handle real-world challenges. I'm always eager to improve myself, learn new things, and grow in the IT field. Someday, I hope to become a **Game Developer** and create games that reflect my creativity, passion, and hard work.
 
 ### 💼 Work Experience
 
