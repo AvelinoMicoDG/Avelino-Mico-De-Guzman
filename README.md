@@ -63,4 +63,4 @@ New Era University
 
 ---
 
-⭐ *"Learning, building, and improving one line of code at a time."*
+⭐ *"I may not know everything today, but every line of code brings me closer to what I want to become."*
