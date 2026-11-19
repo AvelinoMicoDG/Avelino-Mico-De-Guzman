@@ -1,5 +1,14 @@
+<h1 align="center">Hi there, I'm Avelino Mico C. De Guzman III! 👋</h1>
 
-# Hi there, I'm Avelino Mico C. De Guzman III! 👋
+<p align="center">
+  <img src="images/DSCF1379.jpg" 
+       alt="Profile Picture" 
+       width="180">
+</p>
+
+<p align="center">
+  BSIT Student | Solution Specialist | Aspiring Game Developer
+</p>
 
 ### 💻 About Me
 
