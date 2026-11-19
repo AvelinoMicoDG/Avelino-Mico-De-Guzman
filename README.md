@@ -5,7 +5,7 @@
        alt="Profile Picture"
        width="180"
        height="180"
-       style="border-radius: 50%; object-fit: cover;" />
+       style="border-radius: 50%; object-fit: cover;">
 </p>
 
 <p align="center">
