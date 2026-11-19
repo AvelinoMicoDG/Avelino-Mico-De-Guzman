@@ -7,10 +7,12 @@ I am **Avelino Mico C. De Guzman III**, a Bachelor of Science in Information Tec
 
 ### 💼 Work Experience
 
-**Solution Specialist**
-- Gaining professional experience in handling work-related tasks and responsibilities.
-- Developing problem-solving, communication, and time-management skills.
-- Applying analytical thinking to address operational challenges.
+**Solution Specialist | Logistics & Supply Chain**
+
+- Gaining professional experience in logistics and supply chain operations.
+- Developing problem-solving, communication, and analytical skills.
+- Handling operational tasks and helping address logistics-related challenges.
+- Learning how technology and digital solutions contribute to efficient business operations.
 
 ### 🎓 Education
 
